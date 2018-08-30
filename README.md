@@ -1,7 +1,7 @@
 # TeensyAudioLooperPOC
 4channel Audio Looper with Teensy 3.6
 
-Just a proove of concept. And it works :)
+Just a proof of concept. And it works :)
 
 you need some raw audio files on the SD card and name them accordingly.
 
